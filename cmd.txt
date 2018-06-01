@@ -1,0 +1,3 @@
+cl /c sqlite3.c
+
+lib sqlite3.obj
